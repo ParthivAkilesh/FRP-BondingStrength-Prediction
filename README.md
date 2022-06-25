@@ -1,5 +1,5 @@
 # FRP-BondingStrength-Prediction
-   This repository contains the code files for an End-to-End model over Fibre Reinforecment Plastic dataset where an machine learning model is designed and trained to predict the bonding strength of the molecules between the concrete and the FRP. By using the ML model over this dataset we can reduce the complextiy of finding the bonding strength of the molecules by experimenting under various conditions.  
+   This repository contains the code files for an End-to-End model over Fibre Reinforced Polymer dataset where an machine learning model is designed and trained to predict the bonding strength of the molecules between the concrete and the FRP. By using the ML model over this dataset we can reduce the complextiy of finding the bonding strength of the molecules by experimenting under various conditions.  
    
 # Webapp live at : [FRP bonding Strength Prediction](https://frp-bondstrength-calculator.herokuapp.com/)
    
